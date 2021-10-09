@@ -1,0 +1,11 @@
+{
+  "name": "gopal-shop",
+  "version": "1.0.0",
+  "description": "shopify",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prince D",
+  "license": "ISC"
+}
